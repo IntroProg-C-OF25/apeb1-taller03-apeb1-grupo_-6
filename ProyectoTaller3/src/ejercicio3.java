@@ -1,12 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-/**
- *
- * @author L E N O V O
- */
 public class ejercicio3 {
-    
+    public static void main(String[] args) {
+        double Respuesta;
+        Respuesta = Math.pow(10,2) + Math.sqrt(16) + ((20)/12);
+        System.out.println("Respuesta = " + Respuesta);
+    }
 }

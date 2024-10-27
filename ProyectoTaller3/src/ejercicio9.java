@@ -1,12 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-/**
- *
- * @author L E N O V O
- */
 public class ejercicio9 {
+    public static void main(String[] args) {
+        boolean Respuesta; 
+        Respuesta = (Math.sqrt(81) + Math.sqrt(25) * 10 >= 50);
+        System.out.println("Respuesta = " + Respuesta);
+    }
     
 }
